@@ -1,0 +1,13 @@
+D:\SQL Egitimi Sorgular nasıl yapılır\Murat Yucedag DB Eğitimleri\CSharP\Proje_SQL_DB\Proje_SQL_DB\bin\Debug\Proje_SQL_DB.exe.config
+D:\SQL Egitimi Sorgular nasıl yapılır\Murat Yucedag DB Eğitimleri\CSharP\Proje_SQL_DB\Proje_SQL_DB\bin\Debug\Proje_SQL_DB.exe
+D:\SQL Egitimi Sorgular nasıl yapılır\Murat Yucedag DB Eğitimleri\CSharP\Proje_SQL_DB\Proje_SQL_DB\bin\Debug\Proje_SQL_DB.pdb
+D:\SQL Egitimi Sorgular nasıl yapılır\Murat Yucedag DB Eğitimleri\CSharP\Proje_SQL_DB\Proje_SQL_DB\obj\Debug\Proje_SQL_DB.csproj.AssemblyReference.cache
+D:\SQL Egitimi Sorgular nasıl yapılır\Murat Yucedag DB Eğitimleri\CSharP\Proje_SQL_DB\Proje_SQL_DB\obj\Debug\Proje_SQL_DB.csproj.SuggestedBindingRedirects.cache
+D:\SQL Egitimi Sorgular nasıl yapılır\Murat Yucedag DB Eğitimleri\CSharP\Proje_SQL_DB\Proje_SQL_DB\obj\Debug\Proje_SQL_DB.Properties.Resources.resources
+D:\SQL Egitimi Sorgular nasıl yapılır\Murat Yucedag DB Eğitimleri\CSharP\Proje_SQL_DB\Proje_SQL_DB\obj\Debug\Proje_SQL_DB.csproj.GenerateResource.cache
+D:\SQL Egitimi Sorgular nasıl yapılır\Murat Yucedag DB Eğitimleri\CSharP\Proje_SQL_DB\Proje_SQL_DB\obj\Debug\Proje_SQL_DB.csproj.CoreCompileInputs.cache
+D:\SQL Egitimi Sorgular nasıl yapılır\Murat Yucedag DB Eğitimleri\CSharP\Proje_SQL_DB\Proje_SQL_DB\obj\Debug\Proje_SQL_DB.exe
+D:\SQL Egitimi Sorgular nasıl yapılır\Murat Yucedag DB Eğitimleri\CSharP\Proje_SQL_DB\Proje_SQL_DB\obj\Debug\Proje_SQL_DB.pdb
+D:\SQL Egitimi Sorgular nasıl yapılır\Murat Yucedag DB Eğitimleri\CSharP\Proje_SQL_DB\Proje_SQL_DB\obj\Debug\Proje_SQL_DB.frm_kategori_ayarlari.resources
+D:\SQL Egitimi Sorgular nasıl yapılır\Murat Yucedag DB Eğitimleri\CSharP\Proje_SQL_DB\Proje_SQL_DB\obj\Debug\Proje_SQL_DB.frm_Ana_Sayfa.resources
+D:\SQL Egitimi Sorgular nasıl yapılır\Murat Yucedag DB Eğitimleri\CSharP\Proje_SQL_DB\Proje_SQL_DB\obj\Debug\Proje_SQL_DB.frm_musteri.resources
